@@ -1,2 +1,3 @@
-Esse projeto foi desenvolvido para atender a matéria de estágio obrigatório, teve como objetivo desenvolver um analisador léxico e sintático para um cliente, que 
-forneceu uma lista de necessidades para atender a demanda por um software em sua área de psicologia, que o auxiliasse a análisar os arquivos colhetados do elétroencefalograma  
+###Sobre o Projeto
+Este projeto foi desenvolvido como parte do estágio obrigatório e tem como objetivo criar um analisador léxico e sintático para um cliente da área de psicologia. O cliente 
+forneceu uma lista de requisitos para a criação de um software capaz de auxiliar na análise de dados coletados de exames de eletroencefalograma.
